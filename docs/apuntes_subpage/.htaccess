@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Site"
+AuthUserFile https://comi-vh.github.io/comi/root/.htpasswd
+require valid-user
